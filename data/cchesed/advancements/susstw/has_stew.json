@@ -1,0 +1,23 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:suspicious_stew"
+		},
+		"title": "Kinda Sus, Bro...",
+		"description": "Obtain Suspicious Stew",
+		"frame": "task"
+	},
+	"parent": "minecraft:adventure/root",
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": ["minecraft:suspicious_stew"]
+					}
+				]
+			}
+		}
+	}
+}
