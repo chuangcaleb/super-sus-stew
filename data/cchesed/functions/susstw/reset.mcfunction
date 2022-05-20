@@ -1,9 +1,4 @@
-##
- # reset.mcfunction
- # susstw
- #
- # Created by cchesed.
-##
+## Load functions
 
 scoreboard objectives add cc.ss.EffectId dummy 
 

@@ -1,4 +1,4 @@
-# Called when any player feeds brown mooshroom a flower
+## Tags all appropriately cows when any player feeds brown mooshroom a flower
 # data/cchesed/advancements/susstw/fed_flower.json
 
 # Revoke advancement

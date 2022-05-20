@@ -1,7 +1,9 @@
+## Sets the new effect to stew
+
 # Alium						Fire Resistance	12
 # Azure Bluet				Blindness 15
 # Blue Orchid & Dandelion 	Saturation 23 -> Haste 3
-# Cornflower				Jump Boost 8 -> 
+# Cornflower				Jump Boost 8 
 # Lily of the Valley 		Poison 19 -> Dolphin's Grace 30
 # Oxeye Daisy 				Regen 10 -> Resistance 11
 # Poppy						Night Vision 16 -> Nausea 9
