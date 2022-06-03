@@ -16,7 +16,7 @@ execute if entity @e[tag=cc.ss.active_cow,sort=nearest,limit=1,scores={cc.ss.Eff
 # Azure Bluet -> Blindness 30s
 execute if entity @e[tag=cc.ss.active_cow,sort=nearest,limit=1,scores={cc.ss.EffectId=15}] run item modify entity @s weapon.mainhand cchesed:susstw/blindness
 
-# Blue Orchid & Dandelion -> Haste 15s
+# Blue Orchid & Dandelion -> Haste 30s
 execute if entity @e[tag=cc.ss.active_cow,sort=nearest,limit=1,scores={cc.ss.EffectId=23}] run item modify entity @s weapon.mainhand cchesed:susstw/haste
 
 # Cornflower -> Jump Boost 30s
