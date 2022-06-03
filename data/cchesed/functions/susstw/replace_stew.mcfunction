@@ -34,7 +34,7 @@ execute if entity @e[tag=cc.ss.active_cow,sort=nearest,limit=1,scores={cc.ss.Eff
 # Tulips -> Luck 60s
 execute if entity @e[tag=cc.ss.active_cow,sort=nearest,limit=1,scores={cc.ss.EffectId=18}] run item modify entity @s weapon.mainhand cchesed:susstw/luck
 
-# Wither Rose -> Health Boost 20s
+# Wither Rose -> Health Boost 40s
 execute if entity @e[tag=cc.ss.active_cow,sort=nearest,limit=1,scores={cc.ss.EffectId=20}] run item modify entity @s weapon.mainhand cchesed:susstw/health_boost
 
 # Telegraph with animation
