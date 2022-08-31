@@ -4,7 +4,7 @@
 			"item": "minecraft:suspicious_stew",
 			"nbt": "{Enchantments:[{}]}"
 		},
-		"title": "Very, very sus!",
+		"title": "Very, Very Sus!",
 		"description": "Obtain Very Suspicious Stew by right-clicking a brown Mooshroom with one bowl in your main hand",
 		"frame": "challenge"
 	},
