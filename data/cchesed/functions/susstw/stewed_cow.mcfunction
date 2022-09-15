@@ -6,7 +6,7 @@
 # -------------------------------- apply stew -------------------------------- #
 
 # If new item is sus stew, set new effects
-execute if data entity @s SelectedItem{id:"minecraft:suspicious_stew"} run function cchesed:susstw/replace_stew
+execute if data entity @s SelectedItem{id:"minecraft:suspicious_stew"} run function cchesed:susstw/stew_dim
 
 # If new item is not a stew (player holding multiple bowls, or a bowl in offhand) -> give debug message
 execute unless data entity @s SelectedItem{id:"minecraft:suspicious_stew"} unless data entity @s SelectedItem{id:"minecraft:mushroom_stew"} run title @s actionbar "You must hold only one bowl in your main hand to get Super Suspicious Stew"
