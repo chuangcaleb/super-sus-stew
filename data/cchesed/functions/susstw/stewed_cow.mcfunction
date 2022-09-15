@@ -17,4 +17,4 @@ execute unless data entity @s SelectedItem{id:"minecraft:suspicious_stew"} unles
 advancement revoke @s only cchesed:susstw/utility/stew_brown_moosh
 
 # Remove tag on cow
-execute as @e[tag=cc.ss.active_cow] unless data entity @s EffectId run tag @s remove cc.ss.active_cow
+execute as @e[tag=cc.ss.active_cow] unless data entity @s EffectId run function cchesed:susstw/reset_cow
