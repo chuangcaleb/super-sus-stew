@@ -6,7 +6,7 @@
     },
     "title": "That's Super Sus!",
     "description": "Obtain Super Suspicious Stew by right-clicking a brown Mooshroom with one bowl in your main hand",
-    "frame": "challenge"
+    "frame": "goal"
   },
   "parent": "cchesed:susstw/has_stew",
   "criteria": {
