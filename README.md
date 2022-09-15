@@ -1,4 +1,4 @@
-# Very Suspicious Stew
+# Super Suspicious Stew
 
 > Makes Suspicious Stew from a brown Mooshroom more powerful!
 
@@ -14,13 +14,13 @@ And then on the other hand, we have [Suspicious Stew](https://minecraft.fandom.c
 
 ## Design
 
-With this datapack, if you right click a brown Mooshroom with a flower, and then use a Bowl on it, it will give you one Very Suspicious Stew, that grants a status effect according to the flower that you fed it with. This status effect is changed from the vanilla status effect.
+With this datapack, if you right click a brown Mooshroom with a flower, and then use a Bowl on it, it will give you one Super Suspicious Stew, that grants a status effect according to the flower that you fed it with. This status effect is changed from the vanilla status effect.
 
 All other sources of Suspicious Stew (crafting, trading, chest loot, shipwrecks) currently remain the same with the same vanilla status effects, but can certainly be extended to include this special Stew too.
 
 ### 1. Status Effects
 
-1a. Tier progression: Players can have access to useful status effects before going into the Nether for Nether Warts or killing a Wither for beacon effects. Yet, the Very Suspicious Stew's effects are very limited in duration, so while 0:10 of Fire Resistance may be useful to keep on the hotbar to save their lives in a pinch, they will still need to do proper brewing to get 3:00+ status effects.
+1a. Tier progression: Players can have access to useful status effects before going into the Nether for Nether Warts or killing a Wither for beacon effects. Yet, the Super Suspicious Stew's effects are very limited in duration, so while 0:10 of Fire Resistance may be useful to keep on the hotbar to save their lives in a pinch, they will still need to do proper brewing to get 3:00+ status effects.
 
 1b. Duration length is now long enough for it to be viable for players to actually practically use them. They can be used at any stage of the game, even in late game since as a weaker but cheaper alternative to potions! Effects like Blindness and Nausea are made longer so that players can use them in minigames or role-play or whatever they need!
 
@@ -36,11 +36,11 @@ Now, finding a Mooshroom Island actually means something. You could excessively 
 
 ### 3. Flowers
 
-If players want Dolphin's Grace to conveniently cross a strait, a player must scavenge for the Lily of the Valley. To mass produce Very Suspicious Stews, flower farms have to be built in the right biome. Specifically, if PVPers want to mass produce the powerful Health Boost effect, a Wither Rose farm must be made. There's so many applications for the different effects of Very Suspicious Stews. There's so many goals to set, so much content that a player gets to experience and plan out for themselves. That's the core gameplay loop of Minecraft.
+If players want Dolphin's Grace to conveniently cross a strait, a player must scavenge for the Lily of the Valley. To mass produce Super Suspicious Stews, flower farms have to be built in the right biome. Specifically, if PVPers want to mass produce the powerful Health Boost effect, a Wither Rose farm must be made. There's so many applications for the different effects of Super Suspicious Stews. There's so many goals to set, so much content that a player gets to experience and plan out for themselves. That's the core gameplay loop of Minecraft.
 
 ## Limitations
 
-The original vanilla Suspicious Stew is hardcoded to be given straight into your inventory and not bound to a Loot Table. There's probably a way to check for the original Stew and replace it, but I can't brain it, there's probably a better way that I don't know. So for now, players are restricted that **players must hold only one empty Bowl in their main hand to get Very Suspicious Stew from a flower-fed brown Mooshroom.** If players use their offhand, or if they use a slot with two or more Bowls, they will just get a regular Suspicious Stew and a feedback message in the action bar, telling them this limitation.
+The original vanilla Suspicious Stew is hardcoded to be given straight into your inventory and not bound to a Loot Table. There's probably a way to check for the original Stew and replace it, but I can't brain it, there's probably a better way that I don't know. So for now, players are restricted that **players must hold only one empty Bowl in their main hand to get Super Suspicious Stew from a flower-fed brown Mooshroom.** If players use their offhand, or if they use a slot with two or more Bowls, they will just get a regular Suspicious Stew and a feedback message in the action bar, telling them this limitation.
 
 Please suggest how I can overcome this limitation!
 

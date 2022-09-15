@@ -1,6 +1,6 @@
 [
-	{
-		"function": "minecraft:set_nbt",
-		"tag": "{Effects: [{EffectId:12b,EffectDuration:400}],display:{Name:'{\"text\":\"Very Suspicious Stew\",\"italic\":false}'},Enchantments:[{}],cchesed:{ss:{stew:1}}}"
-	}
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{Effects: [{EffectId:12b,EffectDuration:400}],display:{Name:'{\"text\":\"Super Suspicious Stew\",\"italic\":false}'},Enchantments:[{}],cchesed:{ss:{stew:1}}}"
+  }
 ]
