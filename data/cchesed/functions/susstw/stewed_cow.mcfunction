@@ -9,7 +9,7 @@
 execute if data entity @s SelectedItem{id:"minecraft:suspicious_stew"} run function cchesed:susstw/replace_stew
 
 # If new item is not a stew (player holding multiple bowls, or a bowl in offhand) -> give debug message
-execute unless data entity @s SelectedItem{id:"minecraft:suspicious_stew"} unless data entity @s SelectedItem{id:"minecraft:mushroom_stew"} run title @s actionbar "You must be holding only one bowl in your main hand"
+execute unless data entity @s SelectedItem{id:"minecraft:suspicious_stew"} unless data entity @s SelectedItem{id:"minecraft:mushroom_stew"} run title @s actionbar "You must hold only one bowl in your main hand to get Very Suspicious Stew"
 
 # ---------------------------------- reset --------------------------------- #
 
