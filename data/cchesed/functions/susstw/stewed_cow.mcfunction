@@ -1,5 +1,5 @@
 ## Events for when Mooshroom is souped
-# Called from: data/cchesed/advancements/susstw/stew_brown_moosh.json
+# Called from: data/cchesed/advancements/susstw/utility/stew_brown_moosh.json
 
 # execute if data entity @s Inventory[{Slot:0b,id:"minecraft:suspicious_stew"}] unless data entity @s Inventory[{Slot:0b,tag:{cchesed:{ss:{stew:1}}}}] run item modify entity @s hotbar.0 cchesed:stew
 
@@ -14,7 +14,7 @@ execute unless data entity @s SelectedItem{id:"minecraft:suspicious_stew"} unles
 # ---------------------------------- reset --------------------------------- #
 
 # Revoke advancement
-advancement revoke @s only cchesed:susstw/stew_brown_moosh
+advancement revoke @s only cchesed:susstw/utility/stew_brown_moosh
 
 # Remove tag on cow
 execute as @e[tag=cc.ss.active_cow] unless data entity @s EffectId run tag @s remove cc.ss.active_cow
