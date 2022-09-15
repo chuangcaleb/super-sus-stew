@@ -1,6 +1,6 @@
 [
   {
     "function": "minecraft:set_nbt",
-    "tag": "{Effects: [],display:{Name:'{\"text\":\"Souper Suspicious Stew\",\"color\":\"light_purple\",\"italic\":false}'},Enchantments:[{}],cchesed:{ss:{stew:2,type:\"zoomies\"}}}"
+    "tag": "{Effects: [],display:{Name:'{\"text\":\"Soupier Suspicious Stew\",\"color\":\"light_purple\",\"italic\":false}'},Enchantments:[{}],cchesed:{ss:{stew:2,type:\"zoomies\"}}}"
   }
 ]
