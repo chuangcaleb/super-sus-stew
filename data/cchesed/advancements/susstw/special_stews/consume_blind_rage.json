@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "nbt": "{cchesed:{ss:{type:\"blind_rage\"}}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "cchesed:susstw/special_stews/blind_rage"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "nbt": "{cchesed:{ss:{type:\"stalwart\"}}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "cchesed:susstw/special_stews/stalwart"
+  }
+}
