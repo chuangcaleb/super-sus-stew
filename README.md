@@ -36,7 +36,7 @@ Now, finding a Mooshroom Island actually means something. You could excessively 
 
 ### 3. Flowers
 
-If players want Dolphin's Grace to conveniently cross a strait, a player must scavenge for the Lily of the Valley. To mass produce Super Suspicious Stews, flower farms have to be built in the right biome. Specifically, if players want the most interesting effects, a Wither Rose farm must be made. There's so many applications for the different effects of Super Suspicious Stews. There's so many goals to set, so much content that a player gets to experience and plan out for themselves. That's the core gameplay loop of Minecraft.
+If players want Dolphin's Grace to conveniently cross a strait, a player must scavenge for the Lily of the Valley. To mass produce Super Suspicious Stews, flower farms have to be built in the right biome. Specifically, if PVPers want to mass produce the powerful Health Boost effect, they'll need to set up a Wither Rose farm! There's so many applications for the different effects of Super Suspicious Stews. There's so many goals to set, so much content that a player gets to experience and plan out for themselves. That's the core gameplay loop of Minecraft.
 
 ### 4. Endgame Content
 
